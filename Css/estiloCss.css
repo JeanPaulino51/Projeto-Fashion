@@ -1,0 +1,246 @@
+ body{
+     background-color: rgb(253, 250, 239);
+     margin:0px;
+     width: 90%;
+ }
+
+ *{
+  box-sizing: border-box;
+  
+}
+
+ .cabec{
+   height: 90px;
+   width: 100%;
+   background-color: black;
+   margin: 50px 70px 100px 70px; 
+ }
+
+ .logo{
+   position: relative;
+   top: 15px;
+   margin: 5px 0px 0px 280px;
+   height: 50px;
+ }
+
+ .modCapa{
+   position: relative;
+   bottom:50px;
+   height: 900px;
+   width: 100%; 
+ }
+  
+     ul{ 
+      list-style: none;
+      text-align: right;
+      word-spacing: 80px;
+      margin-right: 100px;
+     }
+
+     li{
+      display: inline-block;
+    }
+    
+     a{
+       position: relative;
+       bottom: 45px;
+       text-decoration: none;
+       font-size: 30px;
+       color: rgb(104, 139, 204);      
+     }
+
+     a:hover{
+       color: white;
+     }
+
+    .div1{
+      display: inline-block;
+      margin-bottom: 15px;
+    }   
+    
+    
+
+                /*ESTILIZANDO PARTE PRINCIPAL*/
+              
+                .div2{
+                  display: inline-block;
+                  margin: 0px 20px 0px 200px;
+                }
+
+                .titulo{
+                  font-size: 80px;
+                  word-spacing: 20px;
+                  margin-left: 150px;
+                  text-transform: capitalize;
+                  margin-bottom: 60px;
+                  color: black;
+                }
+
+                .conteudoPrincip{
+                  font-size: 35px;
+                  text-align: center;
+                  text-indent: 15px;
+                  word-spacing: 5px;
+                  margin-bottom: 100px;
+                }
+
+                                      /* ESTILIZANDO MODELOS*/
+
+                                      .mod1{
+                                        height:250px;
+                                        width: 350px;
+                                        position: relative;
+                                        left:100px;
+                                      }
+
+                                      .vest{
+                                        margin-bottom: 5px;
+                                        margin-left: 120px;
+                                        font-size: 30px;
+                                        letter-spacing: 2px;
+                                        text-transform: uppercase;
+                                        position: relative;
+                                        bottom: 20px;
+                                      }
+                                      
+                                      .descMod1{
+                                        margin-left: 130px;
+                                        font-size: 25px;
+                                        position: relative;
+                                        bottom: 50px;
+                                        color: blueviolet;
+                                        text-transform: capitalize;
+                                      }
+
+                                      .mod2{
+                                        display: inline-block;
+                                        height:250px;
+                                        width: 350px;
+                                        position: relative;
+                                        left:600px;
+                                        bottom: 390px;
+                                      }
+
+                                      .descMod2{
+                                        font-size: 25px;
+                                        position: relative;
+                                        left: 680px;
+                                        bottom: 440px;
+                                        color: blueviolet;
+                                        text-transform: capitalize;
+                                      }
+
+                                      .jacket{
+                                        font-size: 30px;
+                                        letter-spacing: 2px;
+                                        text-transform: uppercase;
+                                        position: relative;
+                                        left:660px;
+                                        bottom: 410px;
+                                      }
+
+                                        .section3{
+                                          display: inline-block;
+                                          position: relative;
+                                          left:1100px;
+                                          bottom: 780px;
+                                        }
+
+                                    .mod3{
+                                      height: 250px;
+                                      width: 350px;
+                                    }
+
+                                    .kira{
+                                      font-size: 30px;
+                                      letter-spacing: 2px;
+                                      text-transform: uppercase;
+                                      position: relative;
+                                      bottom: 20px;
+                                      color: rgb(0, 0, 0);
+                                    }
+
+                                    .descMod3{
+                                      font-size: 25px;
+                                      position: relative;
+                                      left: 40px;
+                                      bottom: 50px;
+                                      color: blueviolet;
+                                      text-transform: capitalize;
+                                    }
+
+              
+
+
+
+              /* CONFIGURANDO ARTICLE */
+            
+              .azul{
+                position: relative;
+                bottom: 670px;
+                left: 100px;
+                height: 900px;
+                width: 90%;                
+              }
+          
+              .titArt{
+                position: relative;
+                bottom: 1400px;
+                left: 250px;
+                font-size: 60px;
+                color: white;
+                text-transform: uppercase;
+                width: 50%;
+              }
+
+              .descArt{
+                position: relative;
+                bottom: 1400px;
+                left: 250px;
+                font-size: 35px;
+                color: white;
+                width: 80%;
+              }
+
+              h3{
+                color: #1E90FF;
+                position: relative;
+                bottom: 1100px;
+                text-align: center;
+                font-size: 35px;
+                text-transform: uppercase;
+                font-family: Arial, Helvetica, sans-serif;
+                margin-top: 60px;
+              }
+
+           /* ESTILIZANDO MAPA */
+   iframe{
+     position: relative;
+     bottom: 1000px;
+     left: 100px;
+     margin-bottom: -700px;
+     width: 90%;
+   }
+
+             /* ESTILIZANDO RODAPÉ */
+             
+             footer{
+               position: relative;
+               display: inline-block;
+               bottom:200px ;
+               left: 100px;
+               background-color: black;
+               width: 90%;
+               height: 70px;  
+             }
+
+             
+
+             h4{
+               
+               color: #6495ED;
+               text-align: center;
+               font-size: 40px;
+               margin-top: 10px;
+               padding-top: 10px;
+             }
